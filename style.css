@@ -90,3 +90,42 @@ nav{
     background-repeat: no-repeat;
     background-position: top left, bottom right; /*1st img position, 2nd img position*/
 }
+
+/* 5-5class  */
+.s-title{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818; 
+    /* text-align: center; */
+}
+.s-desc{
+    font-size: 18px;
+    /* text-align: center; */
+    color: #757575;
+}
+.s-bg{
+    background-color: #FFF8F3;
+}
+.about{
+    border-radius: 10px;
+    padding: 131px 156px;
+    text-align: center; /* under the about all are in center */
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.itmes{
+    display: flex;
+    justify-content: space-around;
+}
+.itm-t{
+    font-size: 20px;
+    color: #757575;
+}
+.itm-d{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* 5-6Class */
